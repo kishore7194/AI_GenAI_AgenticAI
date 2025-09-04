@@ -1,0 +1,634 @@
+========10th Aug 2025 (AI, Generative AI, Agentic AI, FSDS ==========
+
+java developer - if you learn java 
+.net developer - if you learn .net 
+
+if you learn ai, gen ai, agentic ai -- multiple job role you can apply 
+generative ai vs agentic ai 
+-- to build one app ( how much time required ) 
+
+generative ai -- generate the code ( user need to copy the code and paste in vs code ) so
+that the app will display 
+agentic ai -- user assigne the task to agenet 
+		task - build app caluclautor 
+		agent - hit to llm ( qwen) -- 
+			agent write the code 
+			agent will create frontend 
+			agent build the app
+company -- developer write same code ( 3 days )
+		that's company are doing lay off
+	automation -- this called automation 
+AGENTIC AI -- 
+
+Microsoft office -- build 
+		excel | word | ppt 
+
+right tiem right tech -- good in growth
+we build ai + azur cloud ( azur ai )
+AI MODEL == PYTHON PROGRAM
+AI MODEL + AZUR = AZUR AI 
+AZUR -- MICROSOFT 
+AI MODEL + AWS == AI IN AWS AI 
+GCP AI ( WORKSHOP) 
+
+=== 24th
+real session starts from today onwards 
+As today 1st day 7am cuz we will install software, 
+---
+Agenda for today session -->
+---
+6months roadmap 
+
+AI -- for everyone is brand new field 
+
+AI extension are 
+		AI 
+		Generative AI (2023)
+		Agentic AI (2025)
+		AGI (Artificial generative intelligence)
+		Quatum AI 
+		
+fresher, non tech, experience, archite, ceo, cfo, leader, founder -- this would be next 10-15yr market 
+why shold every one need to focus 
+
+	java with gen ai 
+	.net with genai 
+	digital marekting genai
+	
+AI TOOLS -- we build the tools using help of frameworks 
+
+this session for everyone  -- fresher, non tech, 
+keytopics which i will be covering hear 
+python (indepth)
+
+1- why python 
+2- we will install datasciece, ai software 
+3- how i will share notes on daily basis
+4- what i expect from you 
+5- core handon learning 
+6- coding 
+7- desinged from 24th aug 2025 - 28th feb 2026 
+8- working professional session 
+
+
+
+How to install the software 
+
+1- anaconda 
+2- vscode 
+3- pycharm
+4- google colab 
+5- cursor ai (agentic ai)
+6- cline ai (agentic ai)
+7- windsurf
+8- lovable 
+9- ai tools 
+---
+about laptop config -->
+--
+if you have any old laptop please continue that 
+
+if you wnat to buy new laptop 
+	16gb ssd processor 
+	intel core >i5, i7, i9 
+	1tb memory 
+	ms office 
+	widows os 10,11 
+	gaming laptop (gpu laptop) 
+	
+please do not use your office laptop for learning cuz few librar will not install 
+
+world there are lot of programing language 
+
+java , c, c++ 
+python -- python is very easy programin lagnuage in the world right 
+top 5 programing langu in the world -- python will come between 1-5
+
+1- google 
+2- google colab (google software now) 
+3- clicked 1st link
+4- new notebook (notebook developer will write the code) 
+5- cell will open 
+6- start code 
+
+===
+1st code -- Number
+1, 2, 3 
+
+statistical term number is called  == NUMERICAL DATA 
+statistical term text is called == CATEGORICAL DATA 
+when you listen to me first ( slow in typeing better you work later)
+6-7month ( 4-5yr) experience professional -- 
+1st code -- working with number in python 
+
+code , notes, document must be neet & cleand 
+
+word document - .doc 
+excel document - .xlcs
+xml docum -.xml 
+pdf doc - .pdf
+notebook exten - .ipynb ( interactive python notebook) 
+python exten -.py 
+
+=== steps to create github ==
+
+1- google
+2- type github.com 
+3- sign up github using your using gmail id 
+4- new folder -- new repositrory
+5- give name of repository ( ai _genai_agentic_ai
+6- drag entire folder and move to gitaccount
+7- https://github.com/kodigitaccount ( update this link in your resume) 
+8- everyday every (notes, code, pdf make sure you will save in your desktop & github)
+9- google classroom
+10- after enrolled this batch i will give you classroom access 
+11- i will create whatapp group
+12- easy , medium , hard
+13 - if few concept are not understan no need to panic ( recording)
+14- 6month 
+15- technical jargon 
+
+sometime if we upload code in our personal desktop (data is loss)
+upload you practise code -- post in repositry 
+
+qusterion and answer 
+
+== notes
+mon-fri ( 7:30am ist - 8:30am ist) 
+			7:15am -- for any query 
+sat & sun - holiday cuz if you miss to do any project ( you can easily work) 
+
+whatsapp gropo
+google classroom 
+ vs code 
+ anaconda 
+ 
+ 1- GITHUB profile 
+	daily basis what are technique you must need to tracking 
+	github ( deplyment , tracking, commit, share the repository)
+		bitbucket & github
+ 
+=== 25th 
+---
+Agenda for today session -->
+----
+Without software we cant work any project 
+yesterday we worked google software which is google colab 
+organization we cant work google 
+
+---
+LIST OF SOFTWARE WE NEED TO INSTALL TODAY -->
+---
+1- ANACONDA PYTHON FOR DATASCIENTIST 
+2- VS CODE  (java, .net, datascience ) but few extension 
+3- PYCHARM COMMUNITY EDITION 
+	
+windows --- 
+mac -- 
+
+1- Why anaconda 
+
+- Data exploration and transformation 
+- Visualization 
+- AI & machine learning 
+- Nlp ( natural language processing)
+- Gui & 
+
+fullstack datascinest- (backend & frontend)
+	
+
+after installation you will see the folder -->
+	when open the folder
+
+1- anaconda navigator --> you dont do anything ( hub to find all software from hear you can lunch hear also)
+2- anaconda powershell prompt --> base(root) 
+3- anconda prompt 
+4- jupyter 
+5- spyder 
+
+cli (command line interpreter)
+
+=== 26th 
+1-  vs code 
+2- pycharm community edition ( debugg the code) 
+
+=== 
+if you already install vs code thats fine 
+if you havent done before then lets install this application 
+
+1- Google -- Python 3.11 - please confirm after instll this one 
+2- you can install both (3.11 | 3.13) 
+3- google - vs code -- download & install 
+4- Extension part 
+		github copilot
+		arepl for python 
+		autoDocstring - Python Docstring Generator
+		Cline - agentic ai ide 
+		Code Runner
+		IntelliCode
+		Jupyter
+		Markdown PDF
+		Office Viewer
+		Python Extension Pack
+		Python Image Preview
+		Python Environments
+		Python (bydefault)
+		Python Debugger (bydefault)
+
+5-  after installtion all the extension 
+please go to the terminla ( you must have found som path location) 
+6- manuall go to the path & create folder 
+7- .ipynb is worke dfor you 
+	.py you are getting small bug (after the class chatgpt help & complete that)
+
+===
+Vs code installation completed successfully 
+==== 
+pycharm community edition  ( absoluty free) 
+==== 
+
+google - pycharm community edition and install the applicaiton 
+
+	Jupyter notebook -- data analyst, business anlayst, 
+	spyder -- machine learning 
+	python - jupyt & pycharm (logic will be clear in loop)
+	vs code - ai, gen ai, agenti ai 
+
+=== Anconda , vs code, pycharm === 
+
+===== 28th
+
+if any learners unablto install the software please do it in weekend 
+
+we will start python programing language 
+this language is one of the top 5 langauge in the world from last 7yr onwards 
+dominant for next 10yr for sure. 
+Python for ai, gen ai, llm , agentic ai, data science. 
+
+AGENDA -->
+--
+python introduction 
+steps to downloads classnotes from google classroom
+python variable introduce 
+1hr + 2hr on daily basis 
+all real time problem solve by object . 
+memory - object we will be create in ram 
+father -- Guido van Rosam
+
+python name comes from -- complete monty python flying circus
+
+library == framework == package
+
+matplotlib -- librar only take care of visualization 
+pandas -- datbase -- collection of table ( rows * coloumn) 
+deep learning =- tensorflow, keras , pytorch
+dynamin - system is automaticall understaing code meaning
+ platform independend 
+ same code can be written in window, mac, linux 
+
+ Anaconda python(Bigdata,datascience) 
+ 
+=== python introducetion 
+who is father of python 
+python version, platform independent, 
+dynamic programing language 
+object oriented programing language 
+python is popular == ml, ai, gen ai, llm, prompt, agentic ai, cloud 
+python version 
+
+=== IDE ( integrated development environemnt)
+user or developer canwrite code, run the code, debug the code 
+	error -- Bug | fix the error - debugging 
+
+Jupyter ide | vs code ide  | pycharm ide | spyder ide ( 4 IDE)
+google colab (IDE) 
+These ide can also installed in organization (company) 
+
+==All my learners to install 5 ides 
+
+=== interpreter vs compiler 
+interpreter = excecute the code line by line or section of code 
+compiler = entire code run at once 
+python is both programing language ( interpreter + compiler ) 
+== python introduction is completed 
+== code 
+
+1- Python Variable 
+a = 5 
+
+5 is value which has name called a 
+
+syntax of the -->
+	variable = value 
+
+who ever instlled please open jupyter notebook 
+who every doesnto install please opne google colab 
+
+every program has some reserved word or keyword 
+if you complete all the python keyword then python is completed 
+ python we have some reserve word 
+ 
+ 
+
+---
+RULES TO DEFINE PYTHON VARIABLE -->
+---
+1- Variable cannot start with digit but end with digit 
+2- Variable are case sensive ( if you define the variable lower case ) you must be call with lower case only 
+3- Keywords == Reserved words are not define as Variable 
+4- No special characate will be define as Variable
+5- Only _ is allowed 
+
+python variable are completed 
+
+variable == identifier == object 
+a = 5 a is called as (variable = identifier = object)
+
+- Every day please post your github account 
+
+
+
+
+['False', | 'None', |  'True',] 
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+ 
+==== 29th
+
+variable name = value 
+
+value also called as datatypes 
+
+i = 5
+f = 5.6
+s = 'a3max'
+b = True 
+
+by listening the regular class you wont be datascience or ai engineer
+you have put effort atlease 2hr daily basis 
+variable name = value 
+
+function -- alwasy ends with () 
+===
+family(d, m)  -- argument or parameter 
+	family() with 2 argument or 2 parameter 
+	
+fam2 ( d, m, s, k) 
+	fam2() with 4 argument 
+
+german(bmw, audi, mer, fear) 
+
+argument == parameter 
+
+=== python datatypes 
+
+int = value with out decimal is called integer ( done) 
+float = value with decimal (done)
+		only e letter is allowed in float 
+
+Complex == 1 + 2j 
+
+1 - real part 
+2 - imaginary part 
+j - squre root of -1 
+
+len() -- it give us the count 
+type() - it give us data type 
+print() - it print the statemnt or print the output 
+argument or parameter
+
+complex & bool is completed 
+
+int -- value without decimal 
+float - value with decimal 
+bool - True & False ( True - 1 & False - 0) 
+complex - 1 + 2j 
+string -- python number & text 
+
+Text techncical name is called as string 
+	
+string must be declare with 
+'' | " " | ''' '''
+
+' ' | "" -- worked for single line comment 
+''' ''' -- we will be using for multiline comment 
+
+
+today we are complete python data types
+
+----
+Course i will teach you -->
+---
+Data analyssis
+Business analysis
+Machine leanring 
+AI -->
+		nlp 
+		dl
+		nn
+gen ai -->
+	transformer 
+	gans, 
+	vqgan
+	clip
+llm -->
+	openai
+	grok
+	llama
+	gemini
+	hugging face 
+prompt enginer -->
+	0shot | 1shot |few shot prompt
+	tempret 
+	p-
+
+NEXT VERSION OF YOU. ( 2000% SURE ) 
+	0cot | 1cot | few cot 
+agenti ai -->
+	crew ai 
+	phi data = agno agi 
+	smolagents
+	n8n
+	mcp 
+	a2a 
+promptfoo, Red teaming
+
+=== 1st Sep
+
+working professional -- job, family, learn this course ( maintain 3 thing)
+		upto how do you handle this 
+		even you though you dont have time just view the task , project 
+		
+Non technial, fresher -- i would happy you to help if they have any querry 
+		6-8hr on daily basis 
+----		
+python Type casting -->
+---
+int --> from all other datatype to int | float, comp, bool, string -- int 
+	while casting float to int -- valid ( user shold not decalare 2 argument together)
+	complex & text string -- is not valid other datatypes to int is possible 
+		
+float
+complex
+bool
+string 
+
+		
+
+- from other all other datatypes to int & float type casting is possible except 
+			complex & text string, user should not pass more then 1 argument 
+			
+- from all other datatype to bool is possible 
+- from all other datatype to string is possible 
+- from all other datatype to complex
+
+=== python variable, datatype, type casting 
+=== give you task (work or not work it is )
+
+=== INDEXING =====
+
+python indexing begins with 0 
+
+We will apply in the string
+id() 
+len() 
+print()
+type() 
+
+new topic started old topic forget 
+	just talk to the brain (sigma rule) 
+
+=== 
+python index divide into 3part
+1- forward index
+2- backward index
+3- step index 
+
+=== 2nd 
+
+slicing (: )
+
+1:5 --> print the value from 1st index to 5-1 indexing 
+:5 --> print the values from 1st to 5-1 index 
+5: --> print the value from 5th index to last 
+0:10:3 --> print the value from 0 to 10-1 every 3 step count 
+
+once string is define we cannot update the string -- this concept in python is called as immutable 
+
+==== print() 
+
+every day i will explain new topics
+forget old topics -- 
+
+
+10 yr sde, 
+ds, da, ba, pe, -- new world less code 
+
+i dont you to be an expert at coding 
+40% code 
+java -- 100% coding (which is too tough) 
+python -- 80% coode
+datascence, dataaalyust -- 40% code 
+
+	chatgpt -- text 
+	insta - comments
+	youtube - comment 
+	
+text - string 
+print() in depth 
+
+llm - large language model 
+print format -- .format is mendatory along {} 
+if you are create variable -- that means {} 
+--- end statement -->
+
+=== 3rd 
+
+ARITHMETIC OPERATOR  == (+ - * ** % / // )
+UNARY  (-)
+ASSGINMENT - +(= -=, *=, /=, //=) 
+RELATIONAL < > >= <= == != 
+LOGICAL - and, or , not
+
+TRUTH TABLE -->
+
+AND ( 1 & 1 = 1 | rest of them are 0) 
+OR (0 OR 0 = 0 | rest of them are 1) 
+
+=== NUMBER SYSTEM CONVERSSION ( 4 part) 
+
+1- Binary (base value 0 & 1)---  (0b )
+2- Octal (base 8 | 0-7 )  -- (0o)
+3- Decimal (base 10) 0-9 -- (0x)
+4- Hexa decimal (base 16) 0-9, a-10, b-11, c-12, d-13, e-14, f-15 | ( 0x)
+
+=== 
+do not try to complete the work in the classhour 
+please attention 
+====
+Non coding background --
+
+1st time - see the code write 
+2nd time - dont see the code and write ( 1day)
+3rd time - after 1month same code please write it again( slowly you will gain momentum) 
+===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+cavin has github issue
+
+	
+-----------
+ERROR NAMES -->
+-----------
+Syntax error -- error happend from user side 
+Name error -- lower case & upper case 	
+zero division error - True/False (to handle this error i will exceptional handling later) 
+Type error - 
+Index error -- 
